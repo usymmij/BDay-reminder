@@ -1,0 +1,16 @@
+The date must be in the format DD/MM
+
+remember to put the SLASH and the zero in front of single digits ex. 05
+
+The name is limited to 50 characters, and you can only use letters. No symbols or numbers
+
+put the dates and names in the format {DD/MM Name} in the file BDays
+
+DO NOT REMOVE THE LAST LINE "00000 DO NOT REMOVE THIS LINE"
+
+example:
+
+28/08 Bobby
+02/11 Mary
+31/01 Pete
+00000 DO NOT REMOVE THIS LINE
